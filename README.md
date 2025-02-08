@@ -2,7 +2,10 @@
 
 ## Abstract
 
-**SmartWeather AI Agent** is a comprehensive, AI-powered weather reporting system that leverages Azure AI agents and OpenAI models to provide real-time weather data, sentiment analysis, and health and safety alerts. By integrating OpenWeatherMap for live weather information with Azure AI Services for natural language and sentiment processing, SmartWeather AI delivers personalized weather insights, actionable advisories, and detailed forecasts via an interactive web interface and email notifications.
+**SmartWeather AI Agent** is a comprehensive, AI-powered weather reporting system that combines the power of Azure AI agents and OpenAI models (GPT-4O-MINI) to deliver real-time weather data, sentiment analysis, and health and safety alerts. By integrating OpenWeatherMap for live weather information with Azure AI Services for natural language processing and sentiment analysis, SmartWeather AI provides personalized weather insights, actionable advisories, and detailed forecasts.
+
+The goal of this application is to showcase the capabilities of an advanced AI agent, utilizing Azure AI and OpenAI technologies. This intelligent agent fetches real-time weather data, analyzes the sentiment of weather conditions, and generates health and safety alerts based on the forecasted environment. Through the integration of multiple AI models, SmartWeather AI not only enhances user interactions but also empowers data-driven decision-making and provides valuable insights in an interactive web interface and through email notifications. This solution highlights the transformative potential of AI in improving everyday life by making weather data more accessible and actionable.
+
 ## Gradio Interface
 ![image](https://github.com/user-attachments/assets/c78fcc50-cf7e-46d3-b173-4d1d03cc69e8)
 ## Email Output
@@ -137,6 +140,10 @@
    cd SmartWeather-agent-ai
 
 2. Install Required Dependencies: pip install -r requirements.txt
-3. Run the Application:python app.py
+3. Run the Application:python weatherinsights.py
 4. Access the Gradio Interface:
 Once the server is running, the Gradio interface will be available at the provided URL (typically http://127.0.0.1:7860), where you can input the location and email to get the weather report and visualizations.
+
+## Conclusion
+
+In conclusion, the goal of this app is to showcase an AI agent that combines the capabilities of Azure AI, OpenAI, and weather forecasting to deliver insightful, actionable information to users. This project highlights the potential of AI agents in automating tasks, improving user experience, and making complex data more accessible and understandable. The integration of weather data, sentiment analysis, and health and safety alerts makes this app a practical tool for users seeking timely and relevant information based on weather conditions.
