@@ -3,6 +3,8 @@
 ## Abstract
 
 **SmartWeather AI Agent** is a comprehensive, AI-powered weather reporting system that leverages Azure AI agents and OpenAI models to provide real-time weather data, sentiment analysis, and health and safety alerts. By integrating OpenWeatherMap for live weather information with Azure AI Services for natural language and sentiment processing, SmartWeather AI delivers personalized weather insights, actionable advisories, and detailed forecasts via an interactive web interface and email notifications.
+![image](https://github.com/user-attachments/assets/db69cf51-6713-466d-a38c-29950168c466)
+![image](https://github.com/user-attachments/assets/442a8d1c-59f3-4eb9-b372-bca86a575b71)
 
 ---
 
