@@ -1,8 +1,8 @@
-# WeatherSense AI
+# SmartWeather AI Agent
 
 ## Abstract
 
-**WeatherSense AI** is a comprehensive, AI-powered weather reporting system that leverages Azure AI agents and OpenAI models to provide real-time weather data, sentiment analysis, and health and safety alerts. By integrating OpenWeatherMap for live weather information with Azure Cognitive Services for natural language and sentiment processing, WeatherSense AI delivers personalized weather insights, actionable advisories, and detailed forecasts via an interactive web interface and email notifications.
+**SmartWeather AI Agent** is a comprehensive, AI-powered weather reporting system that leverages Azure AI agents and OpenAI models to provide real-time weather data, sentiment analysis, and health and safety alerts. By integrating OpenWeatherMap for live weather information with Azure AI Services for natural language and sentiment processing, SmartWeather AI delivers personalized weather insights, actionable advisories, and detailed forecasts via an interactive web interface and email notifications.
 
 ---
 
@@ -39,7 +39,7 @@
 - **OpenWeatherMap API:**  
   Provides real-time weather data and forecasts.
 
-- **Azure Cognitive Services (Text Analytics):**  
+- **Azure AI Services (Text Analytics):**  
   Processes and analyzes textual data for sentiment analysis.
 
 - **Python:**  
@@ -72,7 +72,7 @@
 
 ### 3. Sentiment Analyzer Agent
 - **Task:**  
-  Uses Azure Cognitive Services (Text Analytics API) to analyze the sentiment of weather descriptions (e.g., "overcast clouds") and determine the emotional tone (positive, neutral, or negative).
+  Uses Azure AI Services (Text Analytics API) to analyze the sentiment of weather descriptions (e.g., "overcast clouds") and determine the emotional tone (positive, neutral, or negative).
 - **Key Function:**  
   Provides personalized feedback based on weather sentiment (e.g., "😊 The weather is great! You should feel happy and energetic").
 
@@ -129,5 +129,5 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weathersense-ai.git
-   cd weathersense-ai
+   git clone https://github.com/yourusername/SmartWeather-agent-ai.git
+   cd SmartWeather-agent-ai
