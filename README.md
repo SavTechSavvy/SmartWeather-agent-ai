@@ -135,3 +135,8 @@
    ```bash
    git clone https://github.com/yourusername/SmartWeather-agent-ai.git
    cd SmartWeather-agent-ai
+
+2. Install Required Dependencies: pip install -r requirements.txt
+3. Run the Application:python app.py
+4. Access the Gradio Interface:
+Once the server is running, the Gradio interface will be available at the provided URL (typically http://127.0.0.1:7860), where you can input the location and email to get the weather report and visualizations.
