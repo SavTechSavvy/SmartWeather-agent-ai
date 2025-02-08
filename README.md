@@ -56,7 +56,7 @@
 
 ---
 
-## AI Agents in WeatherSense AI
+## AI Agents in SmartWeather Agent AI
 
 ### 1. Weather Fetcher Agent
 - **Task:**  
