@@ -5,6 +5,31 @@
 **SmartWeather AI Agent** is a comprehensive, AI-powered weather reporting system that combines the power of Azure AI agents and OpenAI models (GPT-4O-MINI) to deliver real-time weather data, sentiment analysis, and health and safety alerts. By integrating OpenWeatherMap for live weather information with Azure AI Services for natural language processing and sentiment analysis, SmartWeather AI provides personalized weather insights, actionable advisories, and detailed forecasts.
 
 The goal of this application is to showcase the capabilities of an advanced AI agent, utilizing Azure AI and OpenAI technologies. This intelligent agent fetches real-time weather data, analyzes the sentiment of weather conditions, and generates health and safety alerts based on the forecasted environment. Through the integration of multiple AI models, SmartWeather AI not only enhances user interactions but also empowers data-driven decision-making and provides valuable insights in an interactive web interface and through email notifications. This solution highlights the transformative potential of AI in improving everyday life by making weather data more accessible and actionable.
+## Technologies Used
+
+- **Azure AI Agents:**  
+  Leverages Azure AI agents (including OpenAI models) to perform data processing, sentiment analysis, and generate insights.
+
+- **Azure Foundry Project Connection String:**  
+  Manages agent orchestration and integration using Azure Foundry's project connection string.
+
+- **OpenWeatherMap API:**  
+  Provides real-time weather data and forecasts.
+
+- **Azure AI Services (Text Analytics):**  
+  Processes and analyzes textual data for sentiment analysis.
+
+- **Python:**  
+  Primary programming language used to implement the system logic and API interactions.
+
+- **Gradio:**  
+  Builds a user-friendly web interface for interacting with the weather agent.
+
+- **Matplotlib:**  
+  Generates graphical visualizations (e.g., line charts for forecast data).
+
+- **SMTP & MIME:**  
+  Sends detailed HTML email reports with weather insights.
 
 ## Gradio Interface
 ![image](https://github.com/user-attachments/assets/c78fcc50-cf7e-46d3-b173-4d1d03cc69e8)
@@ -35,31 +60,6 @@ The goal of this application is to showcase the capabilities of an advanced AI a
 
 ---
 
-## Technologies Used
-
-- **Azure AI Agents:**  
-  Leverages Azure AI agents (including OpenAI models) to perform data processing, sentiment analysis, and generate insights.
-
-- **Azure Foundry Project Connection String:**  
-  Manages agent orchestration and integration using Azure Foundry's project connection string.
-
-- **OpenWeatherMap API:**  
-  Provides real-time weather data and forecasts.
-
-- **Azure AI Services (Text Analytics):**  
-  Processes and analyzes textual data for sentiment analysis.
-
-- **Python:**  
-  Primary programming language used to implement the system logic and API interactions.
-
-- **Gradio:**  
-  Builds a user-friendly web interface for interacting with the weather agent.
-
-- **Matplotlib:**  
-  Generates graphical visualizations (e.g., line charts for forecast data).
-
-- **SMTP & MIME:**  
-  Sends detailed HTML email reports with weather insights.
 
 ---
 
