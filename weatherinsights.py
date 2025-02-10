@@ -16,7 +16,7 @@ import numpy as np
 load_dotenv()
 
 project_connection_string = "eastus.api.azureml.ms;xxx-xxx-xx-xxx-xxxxx;aiagent;ai-basic-project-xxx"
-openweathermap_api_key = "861dd4230bc73d93ea3bc070fb45a385"
+openweathermap_api_key = "xxxxxxxxxxxxx0fb45a385"
 email_password = "xxxxxxx"
 
 # Create an Azure AI Client from a connection string
