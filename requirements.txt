@@ -1,0 +1,11 @@
+requests
+smtplib
+email
+azure-identity
+azure-ai-projects
+azure-ai-textanalytics
+azure-core
+python-dotenv
+gradio
+matplotlib
+numpy
